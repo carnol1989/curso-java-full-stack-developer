@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cawhem</groupId>
-	<artifactId>tarea01-backend</artifactId>
+	<artifactId>tareaJfsd-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tarea01-backend</name>
+	<name>tareaJfsd-backend</name>
 	<description>Crear un simple backend con estás indicaciones (SERVICIOS REST)</description>
 
 	<properties>
